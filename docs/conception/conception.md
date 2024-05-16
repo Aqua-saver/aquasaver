@@ -1,12 +1,12 @@
 ---
 layout: default
-chapitre: Conception
-presentation: Conception
+chapitre: Diagramme-classe
+presentation: Diagramme-classe
 order: 80
 
 ---
-# Conception
+# Diagramme-classe
 
-![Conception](./images/Conception.png){:width="900px"}*figure: Conception*
+![Diagramme-classe](./images/Diagramme-classe.png){:width="900px"}*figure: Diagramme-classe*
 
 <!-- new slide -->
