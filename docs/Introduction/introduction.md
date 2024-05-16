@@ -5,20 +5,15 @@ presentation: introduction
 order: 2
 ---
 
-# Rapport : AQuaSaver
-{:class="sectionHeader"}
-
 <!-- new slide -->
 
-## Introduction
+# Introduction
 
 
-![Introduction](/lab_crud/introduction/images/introduction.jpg){:width="50%"}*figure: Introduction*
+![Introduction](./images/introduction.jpg){:width="50%"}*figure: Introduction*
 
 <!-- note -->
 
-Dans cette partie, nous avons realisé une application de gestion des projects.
-
-Nous avons développé un système CRUD pour les entités Projets et Tâches en utilisant le framework Laravel, avec des fonctionnalités d'autorisation et authentification et multilingue pour l'interface utilisateur afin de faciliter l'apprentissage des compétences nécessaires à la manipulation efficace de ce framework.
+Dans le cadre de la gestion de la consommation d'eau domestique, nous nous sommes engagés dans un processus de conception centré sur l'utilisateur pour développer une solution innovante et efficace. Notre objectif est de répondre aux besoins des utilisateurs tout en favorisant des comportements durables et responsables en matière de consommation d'eau.
 
 <!-- new slide -->

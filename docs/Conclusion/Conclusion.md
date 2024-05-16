@@ -2,8 +2,6 @@
 layout: default
 chapitre: conclusion
 presentation: conclusion
-package: GestionProjects
-presentationPackage: GestionProjects
 order: 80
 
 ---
