@@ -2,12 +2,10 @@
 layout: default
 chapitre: introduction
 presentation: introduction
-package: GestionProjects
-presentationPackage: GestionProjects
 order: 2
 ---
 
-# Rapport : lab crud
+# Rapport : AQuaSaver
 {:class="sectionHeader"}
 
 <!-- new slide -->
