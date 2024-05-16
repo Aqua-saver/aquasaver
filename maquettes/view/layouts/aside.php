@@ -26,6 +26,17 @@ $current_route = $_SERVER['REQUEST_URI'];
 
 
                 <!-- <li class="nav-item">
+                    <a href="/view/home.php"
+                        class="nav-link <?php echo ($current_route == '/view/hp') ? 'active' : ''; ?>">
+                        <i class="fa-solid fa-house mr-2"></i>
+                        <p class="">
+                            Ajouter
+                        </p>
+                    </a>
+                </li> -->
+
+
+                <!-- <li class="nav-item">
                     <a href="/view/personnels/index.php"
                         class="nav-link <?php echo (strpos($current_route, 'personnels') !== false) ? 'active' : ''; ?>">
                         <i class="fa-solid fa-users mr-2"></i>
