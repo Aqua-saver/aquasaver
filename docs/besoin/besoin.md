@@ -9,10 +9,15 @@ order: 4
 
 <!-- new slide -->
 
+## Context de projet
+
+![Introduction](./images/water.jpg){:width="50%"}*figure: Introduction*
+
+<!-- note -->
+
+Le contexte de notre projet repose sur la prise de conscience croissante des défis liés à la gestion de la consommation d'eau domestique. Nous observons une préoccupation grandissante quant au gaspillage d'eau, aux coûts associés et à l'impact environnemental de cette ressource précieuse. Dans ce contexte, notre projet vise à proposer une solution innovante et centrée sur l'utilisateur pour aider les individus et les ménages à mieux comprendre, surveiller et gérer leur consommation d'eau.
 
 ## Empathie
-
-
 
 <!-- note -->
 Ce qu'il fait :
