@@ -3,7 +3,9 @@ layout: default
 order: 1
 ---
 
-
-- [Rapport](https://github.com/hamidAchaou/AQuaSaver/documentation/) 
-- [Présentation](https://github.com/hamidAchaou/AQuaSaver/documentation/presentation.html/) 
-
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+ {% if page.chapitre %}
+    {{- page.content | markdownify -}}
+  {% endif %}
+{% endfor %}
