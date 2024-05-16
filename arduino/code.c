@@ -21,8 +21,8 @@ unsigned long showerCurrentTime;
 unsigned long dishesCurrentTime;
 
 // Define water limits for different scenarios (in liters)
-const float showerWaterLimit = 50.0;
-const float dishesWaterLimit = 30.0;
+const float showerWaterLimit = 25.0;
+const float dishesWaterLimit = 10.0;
 
 // Define current water limits
 float currentShowerWaterLimit = showerWaterLimit;
