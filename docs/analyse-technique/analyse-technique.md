@@ -34,3 +34,7 @@ order: 100
 
 
 ### Laravel
+
+![Laravel](./images/laravel.png){:width="900px"}*figure: Laravel*
+
+
