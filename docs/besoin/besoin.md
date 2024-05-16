@@ -9,10 +9,15 @@ order: 4
 
 <!-- new slide -->
 
+## Context de projet
+
+![Introduction](./images/water.jpg){:width="50%"}*figure: Introduction*
+
+<!-- note -->
+
+Le contexte de notre projet repose sur la prise de conscience croissante des défis liés à la gestion de la consommation d'eau domestique. Nous observons une préoccupation grandissante quant au gaspillage d'eau, aux coûts associés et à l'impact environnemental de cette ressource précieuse. Dans ce contexte, notre projet vise à proposer une solution innovante et centrée sur l'utilisateur pour aider les individus et les ménages à mieux comprendre, surveiller et gérer leur consommation d'eau.
 
 ## Empathie
-
-
 
 <!-- note -->
 Ce qu'il fait :
@@ -40,6 +45,9 @@ nous pourrions constater que les utilisateurs ont du mal à surveiller leur cons
 
 ## Idéation
 
-Dans la phase d'idéation, nous générons un large éventail de solutions potentielles pour résoudre le problème défini.
+Notre solution repose sur deux piliers principaux : l'utilisation d'Arduino et de Laravel.
 
+**Arduino :** Nous avons intégré des capteurs de débit d'eau à des cartes Arduino pour mesurer précisément la consommation d'eau dans différents contextes, tels que la douche et la vaisselle. Cette technologie permet une surveillance en temps réel et une collecte de données précises sur la consommation d'eau.
+
+**Laravel :** Nous avons développé une application web robuste avec Laravel pour stocker, analyser et présenter les données de consommation d'eau de manière conviviale pour les utilisateurs. Cette plateforme offre une interface intuitive pour surveiller la consommation, définir des objectifs personnalisés et recevoir des alertes en cas de dépassement des limites définies.
 <!-- new slide -->

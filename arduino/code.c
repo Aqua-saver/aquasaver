@@ -21,16 +21,15 @@ unsigned long showerCurrentTime;
 unsigned long dishesCurrentTime;
 
 // Define water limits for different scenarios (in liters)
-const float showerWaterLimit = 50.0; // Adjust for shower usage
-const float dishesWaterLimit = 30.0; // Adjust for washing dishes usage
+const float showerWaterLimit = 25.0;
+const float dishesWaterLimit = 10.0;
 
 // Define current water limits
 float currentShowerWaterLimit = showerWaterLimit;
 float currentDishesWaterLimit = dishesWaterLimit;
 
-// Define your Laravel API endpoints
-const char* showerServerAddress = "http://127.0.0.1/api/shower-water-flow-data"; // Replace with your Laravel API endpoint for shower
-const char* dishesServerAddress = "http://127.0.0.1/api/dishes-water-flow-data"; // Replace with your Laravel API endpoint for washing dishes
+const char* showerServerAddress = "http://127.0.0.1/api/shower-water-flow-data"; 
+const char* dishesServerAddress = "http://127.0.0.1/api/dishes-water-flow-data"; 
 HttpClient showerClient;
 HttpClient dishesClient;
 

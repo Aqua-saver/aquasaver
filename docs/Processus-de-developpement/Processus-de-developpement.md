@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Processus de développement
-order: 2
+order: 4
 ---
 
 # Processus de développement
