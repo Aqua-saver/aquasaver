@@ -1,6 +1,6 @@
 ---
 layout: default
-chapitre: Développement agile 
+chapitre: Processus de développement
 order: 2
 ---
 
