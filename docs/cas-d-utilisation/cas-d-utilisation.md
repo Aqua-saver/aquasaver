@@ -10,7 +10,7 @@ L'utilisation du diagramme de cas d'utilisation simplifie la clarification et l'
 {:class="introduction"}
 
 
-![Cas d'utilisation](./images/image.png){: width="900px" }*Figure : Cas d'utilisation*
+![Cas d'utilisation](./images/cas-d-utilisation.png){: width="990px" }*Figure : Cas d'utilisation*
 
 
 <!-- new slide -->
